@@ -1,9 +1,23 @@
 # 🧠 Prática de Algoritmos em Java
 
-Repositório criado com o objetivo de treinar e consolidar conhecimentos em **algoritmos** utilizando a linguagem **Java**. Aqui você encontrará diversos exercícios resolvidos, cobrindo lógica de programação, estruturas de controle, vetores, matrizes, recursividade, entre outros.
+Repositório com exercícios de algoritmos feitos em **Java**, com foco em lógica de programação e fundamentos da linguagem.
 
-## 🚀 Objetivo
+## 📌 Objetivo
 
-Este repositório serve como prática contínua para melhorar a resolução de problemas com Java, além de fortalecer o raciocínio lógico e a base para estruturas de dados e algoritmos mais avançados.
+Treinar raciocínio lógico, estruturas básicas e resolver problemas usando Java.
 
-## 📂 Estrutura do Repositório
+## 📂 Conteúdo
+
+- Variáveis e operadores
+- Condicionais (`if`, `else`, `switch`)
+- Laços (`for`, `while`, `do-while`)
+- Vetores e matrizes
+- Métodos e funções
+- Recursividade (em breve)
+
+## ▶️ Como usar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/SeuUsuario/pratica-algoritmos-java.git
